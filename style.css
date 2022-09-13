@@ -27,10 +27,15 @@
 .chick2,
 .cookie2,
 .veg2 {
-    width: 50%;
+    height: auto;
+    width: 500px;
+    border: 5px solid red;
+    padding: 40px;
+    margin-left: 375px;
     margin-right: auto;
-    margin-left: auto;
-    display: block;
+    
+
+
 
 }
 
